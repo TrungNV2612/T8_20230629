@@ -64,8 +64,7 @@ namespace T8_20230629
                             break;
                         default:
                             Console.Clear();
-                            Console.WriteLine("Invalid");
-                            throw new Exception("Illegal Operation");
+                            Console.WriteLine("Invalid");                            
                             break;
                     }
                 }
